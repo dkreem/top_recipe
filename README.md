@@ -1,3 +1,3 @@
 # top_recipe
-recipe test odin project
+try out our differnent recipes
 
